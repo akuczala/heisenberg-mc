@@ -474,7 +474,7 @@ int main(int argc, char* argv[])
 	if(argc < 2)
 	{
 		cout << "Enter input file" << endl;
-		cout << "Format: dim Steps Precision nSizes nTemps" << endl;
+		cout << "Format: dim Steps States Precision nSizes nTemps" << endl;
 		return 0;
 	}
 	const int nParam = 6;
