@@ -1,5 +1,5 @@
 # heisenberg-mc
-Monte Carlo stochastic series expansion (MC-SSE) simulation of the Heisenberg chain or 2d lattice. Returns an estimate of the expected energy at the specified temperature. See http://physics.bu.edu/~sandvik/programs/ssebasic/ssebasic.html for algorithm details.
+Monte Carlo stochastic series expansion (MC-SSE) simulation of the [Heisenberg](https://en.wikipedia.org/wiki/Heisenberg_model_(quantum)) chain or 2d lattice. Returns an estimate of the expected energy at the specified temperature. See [here](http://physics.bu.edu/~sandvik/programs/ssebasic/ssebasic.html) for algorithm details.
 
 ## Input file format
 
